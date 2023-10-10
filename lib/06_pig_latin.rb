@@ -1,1 +1,3 @@
-def translate
+def translate(string)
+  
+end
